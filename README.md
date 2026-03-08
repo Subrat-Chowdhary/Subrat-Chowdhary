@@ -17,9 +17,6 @@
 
 ## 🧩 Active Projects
 
-### AI-BCTP Platform
-Multi-tenant SaaS platform for corporate sytem with AI-powered engagement systems.
-
 ### AI-enabled Resume Matcher
 AI-assisted matching workflows for candidate profiles, job descriptions, and ranking logic.
 
@@ -28,6 +25,9 @@ Document ingestion, transformation, indexing, and retrieval workflows for knowle
 
 ### Rice-Cal
 Applied product/system build involving backend engineering with **ASP.NET Core**.
+
+### AI-BCTP Platform
+Multi-tenant SaaS platform for corporate sytem with AI-powered engagement systems.
 
 ---
 
