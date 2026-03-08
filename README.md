@@ -1,8 +1,10 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Subrat%20Chowdhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=145&section=header&text=Subrat%20Chowdhary&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=42" />
 </p>
 <p align="center">
-  <strong>AI Systems Engineer • SaaS Platform Builder • RAG Pipelines • Applied Backend Engineering</strong><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=900&color=22C55E&center=true&vCenter=true&repeat=true&width=820&height=24&lines=AI+Systems+Engineer;SaaS+Platform+Builder;RAG+Pipelines;Applied+Backend+Engineering" />
+</p>
+<p align="center">
   <strong>Python | FastAPI | Next.js | ASP.NET | Docker | PostgreSQL | Vector DB</strong>
 </p>
 
