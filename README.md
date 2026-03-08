@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=170&section=header&text=Subrat%20Chowdhary&fontSize=36&fontColor=ffffff&desc=AI%20Systems%20Engineer%20%E2%80%A2%20SaaS%20Platform%20Builder%20%E2%80%A2%20RAG%20Pipelines%20%E2%80%A2%20Applied%20Backend%20Engineering&descAlignY=62&descSize=15&animation=fadeIn" />
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3200&color=58A6FF&center=true&vCenter=true&width=760&height=24&lines=Python+%7C+FastAPI+%7C+Next.js+%7C+ASP.NET+%7C+Docker+%7C+PostgreSQL+%7C+Vector+DB" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=190&section=header&text=Subrat%20Chowdhary&fontSize=38&fontColor=ffffff&desc=AI%20Systems%20Engineer%20%E2%80%A2%20SaaS%20Platform%20Builder%20%E2%80%A2%20RAG%20Pipelines%20%E2%80%A2%20Applied%20Backend%20Engineering%0APython%20%7C%20FastAPI%20%7C%20Next.js%20%7C%20ASP.NET%20%7C%20Docker%20%7C%20PostgreSQL%20%7C%20Vector%20DB&descAlignY=68&descSize=14&animation=fadeIn" />
 
 # Hi 👋 I'm Subrat Chowdhary
 
