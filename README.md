@@ -1,11 +1,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Subrat%20Chowdhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
-
-<p align="center">
-<b>Python | FastAPI | Next.js | ASP.NET | Docker | PostgreSQL | Vector DB</b>
-</p>
-
 <p align="center">
   <strong>AI Systems Engineer • SaaS Platform Builder • RAG Pipelines • Applied Backend Engineering</strong><br/>
   <strong>Python | FastAPI | Next.js | ASP.NET | Docker | PostgreSQL | Vector DB</strong>
