@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Subrat%20Chowdhary&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Subrat%20Chowdhary&fontSize=40&fontColor=ffffff&desc=AI%20Systems%20Engineer%20•%20SaaS%20Platforms%20•%20RAG%20Pipelines%20•%20Backend%20Engineering&descAlignY=65&descSize=16&animation=fadeIn" />
 # Hi 👋 I'm Subrat Chowdhary
 
 🚀 Building across **AI Systems, SaaS Platforms, Retrieval Pipelines, and Applied Backend Engineering**  
