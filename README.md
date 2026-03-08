@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0F172A,65:1E293B,100:0EA5E9&height=250&section=header&text=Subrat%20Chowdhary&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20SaaS%20Platform%20Builder%20%7C%20Applied%20Backend%20Engineering&descAlignY=60&descSize=18" alt="Subrat Chowdhary Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0F172A,65:1E293B,100:0EA5E9&height=240&section=header&text=Subrat%20Chowdhary&fontSize=46&fontColor=F8FAFC&fontAlignY=37&desc=AI%20Systems%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20SaaS%20Platform%20Builder&descAlignY=57&descSize=13" alt="Subrat Chowdhary Banner" />
+</p>
+
+<p align="center">
+  <sub><strong>Python • FastAPI • Next.js • TypeScript • JavaScript • HTML • CSS • TailwindCSS • PostgreSQL • Docker • ASP.NET Core • MinIO • Qdrant • RAG • LLM Workflows</strong></sub>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
