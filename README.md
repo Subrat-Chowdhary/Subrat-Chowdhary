@@ -1,85 +1,48 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Subrat%20Chowdhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:111827,100:1F2937&height=240&section=header&text=Subrat%20Chowdhary&fontSize=46&fontColor=E5F3FF&fontAlignY=38&desc=AI%20Systems%20Engineer%20%E2%80%A2%20SaaS%20Platform%20Builder%20%E2%80%A2%20RAG%20Pipelines&descSize=18&descAlignY=60&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <strong>AI Systems Engineer • SaaS Platform Builder • RAG Pipelines • Applied Backend Engineering</strong><br/>
-  <strong>Python | FastAPI | Next.js | ASP.NET | Docker | PostgreSQL | Vector DB</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=2200&color=7DD3FC&center=true&vCenter=true&width=1000&lines=Building+AI+Systems+that+ship;FastAPI+%E2%80%A2+Next.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;Backend+Engineering+%E2%80%A2+Retrieval+Pipelines+%E2%80%A2+LLM+Workflows" alt="Typing SVG" />
 </p>
-# Hi 👋 I'm Subrat Chowdhary
 
-🚀 Building across **AI Systems, SaaS Platforms, Retrieval Pipelines, and Applied Backend Engineering**  
-⚡ Working with **FastAPI, Next.js, PostgreSQL, Docker, ASP.NET Core, and LLM-powered workflows**
-
----
-
-## 🧠 Current Focus
-
-- Building multi-project systems across **AI, SaaS, and applied automation**
-- **AI-enabled Resume Matcher** — intelligent profile-job matching workflows
-- **ETL + RAG Pipelines** — retrieval-ready data processing and knowledge workflows
-- **Rice-Cal** — applied product/system work including **ASP.NET Core**
-- **AI-BCTP Platform** — multi-tenant corporate SaaS
+<p align="center">
+  <a href="https://github.com/Subrat-Chowdhary">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Python-Expert-1D4ED8?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-Backend-059669?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-Frontend-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Data-334155?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-DevOps-0EA5E9?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-## 🧩 Active Projects
+## Hi there 👋 I'm Subrat Chowdhary
 
-### AI-enabled Resume Matcher
-AI-assisted matching workflows for candidate profiles, job descriptions, and ranking logic.
+I design and build **AI-powered systems**, **SaaS platforms**, and **production-focused backend architectures**.  
+My work sits at the intersection of **applied AI**, **retrieval systems**, and **scalable software engineering**.
 
-### ETL + RAG Pipeline
-Document ingestion, transformation, indexing, and retrieval workflows for knowledge-centric systems.
+### What I work on
+- AI system design and backend architecture
+- RAG pipelines and LLM application workflows
+- FastAPI, Next.js, PostgreSQL, Docker-based products
+- SaaS platforms with strong product + engineering alignment
 
-### Rice-Cal
-Applied product/system build involving backend engineering with **ASP.NET Core**.
+### Core stack
+`Python` `FastAPI` `Next.js` `ASP.NET Core` `PostgreSQL` `Docker` `Vector DB` `LLM Workflows`
 
-### AI-BCTP Platform
-Multi-tenant SaaS platform for corporate sytem with AI-powered engagement systems.
-
----
-
-## ⚙️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-Systems-black?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Pipelines-1f6feb?style=for-the-badge)
+### Focus areas
+- Retrieval pipelines
+- Applied backend engineering
+- Scalable APIs
+- AI product foundations
+- Developer-first system design
 
 ---
 
-## 📊 GitHub Stats
-
-![Subrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subrat-Chowdhary&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Subrat-Chowdhary&theme=tokyonight)
-
----
-
-## 👀 Profile Views
-
-![Profile views](https://komarev.com/ghpvc/?username=Subrat-Chowdhary&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
-## 🧩 Featured Project
-
-### AI-BCTP Platform
-
-Multi-tenant SaaS platform for corporate training with AI-powered engagement systems.
-
-Tech:
-
-- FastAPI microservices
-- Next.js frontend
-- PostgreSQL
-- Docker
-- AI/LLM integrations
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subrat-Chowdhary&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subrat-Chowdhary&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" height="170"/>
+</p>
