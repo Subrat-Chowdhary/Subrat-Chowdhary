@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Subrat%20Chowdhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Subrat%20Chowdhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1200&color=22C55E&center=true&vCenter=true&repeat=true&width=980&height=32&lines=AI+Systems+Engineer+%E2%80%A2+SaaS+Platform+Builder+%E2%80%A2+RAG+Pipelines;Python+%7C+FastAPI+%7C+Next.js+%7C+ASP.NET+%7C+Docker+%7C+PostgreSQL+%7C+Vector+DB" />
+  <strong>AI Systems Engineer • SaaS Platform Builder • RAG Pipelines • Applied Backend Engineering</strong><br/>
+  <strong>Python | FastAPI | Next.js | ASP.NET | Docker | PostgreSQL | Vector DB</strong>
 </p>
 
 # Hi 👋 I'm Subrat Chowdhary
