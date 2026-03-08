@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <strong>AI Systems • SaaS Platforms • Retrieval Pipelines • Backend Engineering</strong>
-</p>
-
-<p align="center">
   <a href="https://subrat.io">
     <img src="https://img.shields.io/badge/Portfolio-subrat.io-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
