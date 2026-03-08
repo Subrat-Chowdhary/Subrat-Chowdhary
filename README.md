@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Subrat%20Chowdhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Subrat%20Chowdhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1200&color=22C55E&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;SaaS+Platform+Builder;RAG+Pipelines;Applied+Backend+Engineering" />
+</p>
+
+<p align="center">
+<b>Python | FastAPI | Next.js | ASP.NET | Docker | PostgreSQL | Vector DB</b>
 </p>
 
 <p align="center">
