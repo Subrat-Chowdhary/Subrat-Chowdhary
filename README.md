@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Subrat%20Chowdhary&fontSize=38&fontColor=ffffff&desc=AI%20Systems%20Engineer%20•%20SaaS%20Platforms%20•%20RAG%20Pipelines%20•%20Backend%20Engineering&descAlignY=63&descSize=15&animation=fadeIn" />
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&height=32&lines=AI+Systems+Engineer;Building+SaaS+Platforms;FastAPI+%7C+Next.js+%7C+ASP.NET;RAG+%7C+Retrieval+%7C+LLM+Workflows" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=170&section=header&text=Subrat%20Chowdhary&fontSize=36&fontColor=ffffff&desc=AI%20Systems%20Engineer%20%E2%80%A2%20SaaS%20Platform%20Builder%20%E2%80%A2%20RAG%20Pipelines%20%E2%80%A2%20Applied%20Backend%20Engineering&descAlignY=62&descSize=15&animation=fadeIn" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3200&color=58A6FF&center=true&vCenter=true&width=760&height=24&lines=Python+%7C+FastAPI+%7C+Next.js+%7C+ASP.NET+%7C+Docker+%7C+PostgreSQL+%7C+Vector+DB" />
+
 # Hi 👋 I'm Subrat Chowdhary
 
 🚀 Building across **AI Systems, SaaS Platforms, Retrieval Pipelines, and Applied Backend Engineering**  
