@@ -1,23 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0F172A,65:1E293B,100:0EA5E9&height=250&section=header&text=Subrat%20Chowdhary&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20SaaS%20Platform%20Builder%20%7C%20Applied%20Backend%20Engineering&descAlignY=60&descSize=18" alt="Subrat Chowdhary Banner" />
 </p>
-
-<p align="center">
-  <strong>AI Systems • SaaS Platforms • Retrieval Pipelines • Backend Engineering</strong>
-</p>
-
-<p align="center">
-  <a href="https://subrat.io">
-    <img src="https://img.shields.io/badge/Portfolio-subrat.io-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:mynufu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Subrat-Chowdhary">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -45,7 +28,17 @@
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge" alt="WebRTC" />
   <img src="https://img.shields.io/badge/Ubuntu- E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </p>
-
+<p align="center">
+  <a href="https://subrat.io">
+    <img src="https://img.shields.io/badge/Portfolio-subrat.io-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:mynufu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Subrat-Chowdhary">
+    <img src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 <p align="center">
   <sub><strong>Python • FastAPI • Next.js • TypeScript • JavaScript • HTML • CSS • TailwindCSS • ShadCN • Bulma • ASP.NET Core • C# • ADO.NET • SQL Server • PostgreSQL • MySQL • Prisma • Docker • Docker Compose • Ubuntu Server • Certbot • Node.js • API Development • MinIO • Qdrant • Vector DB • RAG Pipelines • LLM Workflows • WebSocket • Socket.io • WebRTC • Postman • XSLT • Enterprise Systems • SaaS Platforms</strong></sub>
 </p>
