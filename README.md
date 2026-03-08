@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,30:111827,65:1E293B,100:0EA5E9&height=260&section=header&text=Subrat%20Chowdhary&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20SaaS%20Platform%20Builder%20%7C%20Applied%20Backend%20Engineering&descAlignY=60&descSize=18" alt="Subrat Chowdhary Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0F172A,65:1E293B,100:0EA5E9&height=250&section=header&text=Subrat%20Chowdhary&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20SaaS%20Platform%20Builder%20%7C%20Applied%20Backend%20Engineering&descAlignY=60&descSize=18" alt="Subrat Chowdhary Banner" />
 </p>
 
 <p align="center">
@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://subrat.io">
-    <img src="https://img.shields.io/badge/Portfolio-subrat.io-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-subrat.io-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:mynufu@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Subrat-Chowdhary">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -33,38 +33,37 @@
   <img src="https://img.shields.io/badge/MinIO-C81E1E?style=for-the-badge" alt="MinIO" />
   <img src="https://img.shields.io/badge/RAG-Pipelines-1D4ED8?style=for-the-badge" alt="RAG Pipelines" />
   <img src="https://img.shields.io/badge/LLM-Workflows-0F766E?style=for-the-badge" alt="LLM Workflows" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+</p>
+
+<p align="center">
+  <sub>
+    <strong>
+      <span style="color:#22c55e;">Python • FastAPI • Next.js • TypeScript • JavaScript • HTML • CSS • TailwindCSS • ShadCN • Bulma • ASP.NET Core • C# • ADO.NET • SQL Server • PostgreSQL • MySQL • Prisma • Docker • Docker Compose • Ubuntu Server • Certbot • Node.js • API Development • MinIO • Qdrant • Vector DB • RAG Pipelines • LLM Workflows • WebSocket • Socket.io • WebRTC • Postman • XSLT • Enterprise Systems • SaaS Platforms</span>
+    </strong>
+  </sub>
 </p>
 
 ---
 
 # Hi 👋 I'm Subrat Chowdhary
 
-Full-stack engineer with **20+ years of experience across software engineering, enterprise systems, consulting, and technology delivery**.
+Full-stack engineer with **20+ years of experience** across software engineering, enterprise systems, consulting, and technology delivery.
 
 Currently focused on **AI systems, SaaS platforms, retrieval pipelines, and scalable backend architectures**.
 
-I build systems where **AI, backend engineering, and practical product thinking** come together.
+I build systems where **AI, backend engineering, and practical product execution** come together.
 
 ---
 
-## 🚀 What I’m Building
+## 🚀 Current Focus
 
-- **AI-powered SaaS platforms**
-- **RAG pipelines and retrieval systems**
-- **LLM-enabled backend workflows**
-- **Scalable APIs and full-stack applications**
-- **Applied AI products for business use-cases**
-
----
-
-## 🧠 Focus Areas
-
-- AI Systems Engineering
-- Retrieval Pipelines
-- Applied Backend Engineering
-- Scalable API Platforms
-- AI-enabled SaaS Products
-- Developer-first system design
+- Building **AI-powered SaaS platforms**
+- Designing **RAG pipelines and retrieval systems**
+- Developing **LLM-enabled backend workflows**
+- Shipping **scalable APIs and modern full-stack applications**
+- Creating **applied AI products for real business use-cases**
 
 ---
 
@@ -84,30 +83,6 @@ Multi-tenant AI-powered corporate training SaaS platform with backend systems, e
 
 ---
 
-## ⚙️ Core Stack
-
-- Python
-- FastAPI
-- Next.js
-- TypeScript
-- PostgreSQL
-- Docker
-- ASP.NET Core
-- Vector Databases
-- LLM Workflows
-
----
-
-## 🧠 Data + AI Stack
-
-- **MinIO** for data lake workflows
-- **Qdrant** for vector search
-- **RAG pipelines** for retrieval-driven systems
-- **LLM workflows** for applied automation
-- **Document processing systems** for ingestion and transformation
-
----
-
 ## 🏢 Professional Highlights
 
 - Worked as a **Software Engineer (.NET)** on the **Bank of America Loan Origination System**
@@ -121,28 +96,31 @@ Multi-tenant AI-powered corporate training SaaS platform with backend systems, e
 ## 📈 Experience Snapshot
 
 - **20+ years** in IT and technology delivery
-- Modern stack experience with **Next.js, TypeScript, TailwindCSS, FastAPI, and Docker**
+- Modern stack experience with **Next.js, TypeScript, TailwindCSS, FastAPI, Docker**
 - Deployment and server setup experience on **Ubuntu**
 - Hands-on work with **API development, backend workflows, and data systems**
+- Experience with **MinIO, Qdrant, vector search, and retrieval workflows**
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ Core Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subrat-Chowdhary&show_icons=true&theme=tokyonight" alt="Subrat GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subrat-Chowdhary&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+`Python` `FastAPI` `Next.js` `TypeScript` `JavaScript` `HTML` `CSS` `TailwindCSS` `ShadCN` `Bulma` `ASP.NET Core` `C#` `PostgreSQL` `MySQL` `SQL Server` `Prisma` `Docker` `Ubuntu` `MinIO` `Qdrant` `RAG` `LLM Workflows`
 
 ---
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Subrat-Chowdhary&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Subrat-Chowdhary&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Subrat-Chowdhary&theme=algolia&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
