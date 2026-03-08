@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <strong>AI Systems • SaaS Platforms • Retrieval Pipelines • Backend Engineering</strong>
+</p>
+
+<p align="center">
   <a href="https://subrat.io">
     <img src="https://img.shields.io/badge/Portfolio-subrat.io-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
@@ -19,26 +23,31 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge" alt="Qdrant" />
   <img src="https://img.shields.io/badge/MinIO-C81E1E?style=for-the-badge" alt="MinIO" />
   <img src="https://img.shields.io/badge/RAG-Pipelines-1D4ED8?style=for-the-badge" alt="RAG Pipelines" />
   <img src="https://img.shields.io/badge/LLM-Workflows-0F766E?style=for-the-badge" alt="LLM Workflows" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge" alt="WebRTC" />
+  <img src="https://img.shields.io/badge/Ubuntu- E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </p>
 
 <p align="center">
-  <sub>
-    <strong>
-      <span style="color:#22c55e;">Python • FastAPI • Next.js • TypeScript • JavaScript • HTML • CSS • TailwindCSS • ShadCN • Bulma • ASP.NET Core • C# • ADO.NET • SQL Server • PostgreSQL • MySQL • Prisma • Docker • Docker Compose • Ubuntu Server • Certbot • Node.js • API Development • MinIO • Qdrant • Vector DB • RAG Pipelines • LLM Workflows • WebSocket • Socket.io • WebRTC • Postman • XSLT • Enterprise Systems • SaaS Platforms</span>
-    </strong>
-  </sub>
+  <sub><strong>Python • FastAPI • Next.js • TypeScript • JavaScript • HTML • CSS • TailwindCSS • ShadCN • Bulma • ASP.NET Core • C# • ADO.NET • SQL Server • PostgreSQL • MySQL • Prisma • Docker • Docker Compose • Ubuntu Server • Certbot • Node.js • API Development • MinIO • Qdrant • Vector DB • RAG Pipelines • LLM Workflows • WebSocket • Socket.io • WebRTC • Postman • XSLT • Enterprise Systems • SaaS Platforms</strong></sub>
 </p>
 
 ---
@@ -109,14 +118,6 @@ Multi-tenant AI-powered corporate training SaaS platform with backend systems, e
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Subrat-Chowdhary&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Subrat-Chowdhary&theme=algolia&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
