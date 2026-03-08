@@ -1,16 +1,33 @@
 # Hi 👋 I'm Subrat Chowdhary
 
-🚀 Building **AI-BCTP Platform**  
-⚡ Working with **FastAPI, Next.js, AI Systems, SaaS Architecture**
+🚀 Building across **AI Systems, SaaS Platforms, Retrieval Pipelines, and Applied Backend Engineering**  
+⚡ Working with **FastAPI, Next.js, PostgreSQL, Docker, ASP.NET Core, and LLM-powered workflows**
 
 ---
 
 ## 🧠 Current Focus
 
-- Building **AI-BCTP SaaS Platform**
-- Multi-tenant architecture
-- LLM powered corporate training systems
-- FastAPI microservices + Next.js frontend
+- Building multi-project systems across **AI, SaaS, and applied automation**
+- **AI-enabled Resume Matcher** — intelligent profile-job matching workflows
+- **ETL + RAG Pipelines** — retrieval-ready data processing and knowledge workflows
+- **Rice-Cal** — applied product/system work including **ASP.NET Core**
+- **AI-BCTP Platform** — multi-tenant corporate SaaS
+
+---
+
+## 🧩 Active Projects
+
+### AI-BCTP Platform
+Multi-tenant SaaS platform for corporate sytem with AI-powered engagement systems.
+
+### AI-enabled Resume Matcher
+AI-assisted matching workflows for candidate profiles, job descriptions, and ranking logic.
+
+### ETL + RAG Pipeline
+Document ingestion, transformation, indexing, and retrieval workflows for knowledge-centric systems.
+
+### Rice-Cal
+Applied product/system build involving backend engineering with **ASP.NET Core**.
 
 ---
 
@@ -21,6 +38,9 @@
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Systems-black?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-1f6feb?style=for-the-badge)
 
 ---
 
