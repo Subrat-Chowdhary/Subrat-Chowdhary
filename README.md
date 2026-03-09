@@ -74,7 +74,7 @@ AI-assisted platform for matching candidate profiles with job descriptions using
 ### ETL + RAG Pipeline
 End-to-end document ingestion and retrieval workflow including processing, chunking, embeddings, vector indexing, and semantic retrieval.
 
-### Rice-Cal
+### Rice-Calc
 Applied backend product involving **ASP.NET Core**, service architecture, and business workflow implementation.
 
 ### AI-BCTP Platform
