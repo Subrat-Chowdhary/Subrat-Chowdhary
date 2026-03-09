@@ -78,7 +78,7 @@ End-to-end document ingestion and retrieval workflow including processing, chunk
 Applied backend product involving **ASP.NET Core**, service architecture, and business workflow implementation.
 
 ### AI-BCTP Platform
-Multi-tenant AI-powered corporate training SaaS platform with backend systems, engagement workflows, and product architecture.
+Multi-tenant AI-powered SaaS platform with backend systems, engagement workflows, and product architecture.
 
 ---
 
@@ -126,5 +126,5 @@ Multi-tenant AI-powered corporate training SaaS platform with backend systems, e
 
 ## 📫 Contact
 
-- **Website:** [subrat.io](https://subrat.io)
+
 - **Email:** [mynufu@gmail.com](mailto:mynufu@gmail.com)
