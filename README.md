@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0F172A,65:1E293B,100:0EA5E9&height=240&section=header&text=Subrat%20Chowdhary&fontSize=46&fontColor=F8FAFC&fontAlignY=37&desc=AI%20Systems%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20SaaS%20Platform%20Builder&descAlignY=57&descSize=13" alt="Subrat Chowdhary Banner" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -22,10 +23,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+CjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjcuNSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiLz4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMi4yIiBmaWxsPSIjZmZmIi8+CjxjaXJjbGUgY3g9IjE4LjUiIGN5PSI3IiByPSIxLjUiIGZpbGw9IiNmZmYiLz4KPC9zdmc+" alt="Qdrant" />
   <img src="https://img.shields.io/badge/MinIO-C81E1E?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-1D4ED8?style=for-the-badge" alt="RAG Pipelines" />
-  <img src="https://img.shields.io/badge/LLM_Workflows-0F766E?style=for-the-badge" alt="LLM Workflows" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-1D4ED8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+CjxyZWN0IHg9IjIuNSIgeT0iNCIgd2lkdGg9IjUiIGhlaWdodD0iNSIgcng9IjEuMiIgZmlsbD0iI2ZmZiIvPgo8cmVjdCB4PSIxNi41IiB5PSI0IiB3aWR0aD0iNSIgaGVpZ2h0PSI1IiByeD0iMS4yIiBmaWxsPSIjZmZmIi8+CjxyZWN0IHg9IjkuNSIgeT0iMTUiIHdpZHRoPSI1IiBoZWlnaHQ9IjUiIHJ4PSIxLjIiIGZpbGw9IiNmZmYiLz4KPHBhdGggZD0iTTcuNSA2LjVoMy4yTTEzLjMgNi41aDMuMk0xMiA5LjJ2NC44IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPg==" alt="RAG Pipelines" />
+  <img src="https://img.shields.io/badge/LLM_Workflows-0F766E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+CjxjaXJjbGUgY3g9IjYiIGN5PSI2IiByPSIyLjIiIGZpbGw9IiNmZmYiLz4KPGNpcmNsZSBjeD0iMTgiIGN5PSI2IiByPSIyLjIiIGZpbGw9IiNmZmYiLz4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMi4yIiBmaWxsPSIjZmZmIi8+CjxjaXJjbGUgY3g9IjYiIGN5PSIxOCIgcj0iMi4yIiBmaWxsPSIjZmZmIi8+CjxjaXJjbGUgY3g9IjE4IiBjeT0iMTgiIHI9IjIuMiIgZmlsbD0iI2ZmZiIvPgo8cGF0aCBkPSJNNy44IDcuNGwyLjYgMi44TTE2LjIgNy40bC0yLjYgMi44TTcuOCAxNi42bDIuNi0yLjhNMTYuMiAxNi42bC0yLjYtMi44IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMS44IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPC9zdmc+" alt="LLM Workflows" />
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" />
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
