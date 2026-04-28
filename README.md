@@ -130,4 +130,4 @@ Multi-tenant AI-powered SaaS platform with backend systems, engagement workflows
 ## 📫 Contact
 
 
-- **Email:** [mynufu@gmail.com](mailto:mynufu@gmail.com)
+- **Email:** [hello@subrat.io](mailto:hello@subrat.io)
