@@ -36,7 +36,10 @@
   <a href="https://subrat.io">
     <img src="https://img.shields.io/badge/Portfolio-subrat.io-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:mynufu@gmail.com">
+  <a href="https://developer.subrat.io">
+    <img src="https://img.shields.io/badge/Developer%20Tools-developer.subrat.io-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Developer Tools Hub" />
+  </a>
+  <a href="mailto:hello@subrat.io">
     <img src="https://img.shields.io/badge/Email-Contact-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Subrat-Chowdhary">
